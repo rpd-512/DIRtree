@@ -1,5 +1,5 @@
 import os
-dir = "/home/rapidfire69/RaPiD/"
+dir = input("Enter full directory path")
 tb = 0
 def tree(dir):
     global tb
