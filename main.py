@@ -1,5 +1,5 @@
 import os
-dir = input("Enter full directory path")
+dir = input("Enter full directory path: ")
 tb = 0
 def tree(dir):
     global tb
